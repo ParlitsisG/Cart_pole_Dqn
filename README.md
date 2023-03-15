@@ -1,2 +1,9 @@
-# Cart_pole_Dqn
- rl_cartpole_raylib
+Requirments:
+
+libraries:
+gym 
+numpy 
+ray.rllib
+tensorflow
+
+operating gpu recognized by tensorflow
